@@ -1,3 +1,5 @@
+Version 1.5 (9/11/2025) : anything,just files manipulation
+
 Chaos Calisthenics
 
 -In this script,you will create text files with Training preset.
