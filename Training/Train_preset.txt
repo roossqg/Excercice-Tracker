@@ -1,13 +1,13 @@
-cardio (in seconds): 4x27 
- pistol squats (in seconds): 3x15 
- jumping squats: 4x12 
- crow pose (in seconds): 2x15 
- sphinx-push ups: 2x7 
- pike hold (in seconds): 3x27 
- frog stand (in seconds): 1x10 
- push-ups: 4x7 
- decline push ups: 2x7 
- cardio (in seconds): 4x24 
+dips: 3x12 
+ incline pike push-ups: 1x7 
+ sphinx-push ups: 1x6 
+ decline push ups: 3x6 
+ jumping squats: 2x15 
+ bodyweight squat: 4x29 
+ l sit (in seconds): 3x9 
+ cardio (in seconds): 4x31 
+ pistol squats (in seconds): 3x19 
  cardio (in seconds): 5x23 
- cardio (in seconds): 5x20 
+ cardio (in seconds): 4x22 
+ cardio (in seconds): 4x25 
  
