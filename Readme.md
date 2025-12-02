@@ -20,11 +20,11 @@
     <p>
       
     </p>
-    <p></p>
+  
   </section>
 
   <section id="funcs">
-    <h2>Funcionalidades</h2>
+    <h2>Funcs</h2>
     <ul>
       <li>📅 Random Select Exercises according personal preferences and configs</li>
       <li>✅ Register of each train</li>
@@ -35,12 +35,11 @@
 
   <section id="tecs">
     <h2>Tecs Used</h2>
-    <p></p>
+
     <ul>
       <li>Python</li>
       <li>Files Handling with Python</li>
       <li>Txt files for save Informations</li>
-      
     </ul>
   </section>
 
@@ -50,10 +49,10 @@
     <pre>
 # Download or Clone that repo to your Ide 
 
-# Install requiremets (There's Nothing in V2< version)
+### Install requiremets (There's Nothing in V2< version)
 pip install -r requirements.txt
 
-# Run the Script
+### Run the Script
   /Exercises.org.py
     </pre>
     <p> After it,Your train_preset on <code>Train_preset</code>will be created.you can confirm for save on history and save your progress atributes on <code>Stats.txt</code> and <code>Char_save.txt</code> respectively.</p>
