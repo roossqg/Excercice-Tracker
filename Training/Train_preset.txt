@@ -1,13 +1,13 @@
-dips: 3x12 
+cardio (in seconds): 5x35 
+ jumping squats: 4x13 
+ incline push-ups: 2x7 
+ hollow body hold: 3x25 
+ frog stand (in seconds): 2x15 
+ incline pike push-ups: 1x6 
+ frog stand (in seconds): 2x14 
+ push-ups: 3x10 
  incline pike push-ups: 1x7 
- sphinx-push ups: 1x6 
- decline push ups: 3x6 
- jumping squats: 2x15 
- bodyweight squat: 4x29 
- l sit (in seconds): 3x9 
- cardio (in seconds): 4x31 
- pistol squats (in seconds): 3x19 
- cardio (in seconds): 5x23 
- cardio (in seconds): 4x22 
- cardio (in seconds): 4x25 
+ cardio (in seconds): 5x35 
+ cardio (in seconds): 4x28 
+ cardio (in seconds): 5x31 
  

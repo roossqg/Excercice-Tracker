@@ -2,6 +2,7 @@
 from random import *
 
 # exc[3] --> 3: cardio/back, 2: Legs, 1: Arms
+#DATABASE
 exercises={"straight arm plank (in seconds)":[(2,3),(20,30),1],"pike hold (in seconds)":[(3,4),(20,30),1],
             "bodyweight squat": [(3,4),(25,30),2],
             "incline push-ups":[(2,3),(5,7),1],"incline pike push-ups":[(1,2),(5,7),1],"lunges":[(2,3),(20,30),2],

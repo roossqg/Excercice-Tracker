@@ -1,0 +1,8 @@
+my_stats/
+
+.venv
+
+__pycache__/
+
+*.pyc
+

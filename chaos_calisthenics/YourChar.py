@@ -22,10 +22,11 @@ class Characterexp():
             self.exp_grown+=0.05
             self.exp=0
 
-    def save(self):
-        from Exercises_org import char_savedata
+
+    def save(self,originn):
+        from app import char_savedata
         char_savedata1=char_savedata
-        origin=char_savedata1
+        origin=char_savedata
         with open(origin,"w") as destiny:
             list="[" + ",".join(str(x) for x in [self.exp,self.lv,self.exp_roof,self.badges]) + "]"
             destiny.write(list)
