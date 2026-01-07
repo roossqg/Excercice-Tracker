@@ -8,9 +8,9 @@ import ast
 
 
 #Paths:
-train_preset="C:\\Users\\augusto\\Documents\\Projects Dificult 3 [+7 days]\\Languages.py\\Chaos_Calistenics\\Training\\Train_preset.txt" # --> txt file 
-stats_and_History="C:\\Users\\augusto\\Documents\\Projects Dificult 3 [+7 days]\\Languages.py\\Chaos_Calistenics\\Training\\Stats.txt" # --> txt file
-char_savedata="C:\\Users\\augusto\\Documents\\Projects Dificult 3 [+7 days]\\Languages.py\\Chaos_Calistenics\\Training\\Char_save.txt" # --> txt file
+train_preset="" # --> txt file 
+stats_and_History="" # --> txt file
+char_savedata="" # --> txt file
 
 #Create the exercise preset on Docs
 def exc_Tracker(): 
