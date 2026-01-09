@@ -60,10 +60,8 @@ pip install -r requirements.txt
   python app.py
 
 #### 4.2.You will see this on your terminal:
-    
-    ![alt text](image.png)
-
   </pre>
+    ![alt text](Chaos_Calistenics/image.png)
     <p> After it,Your train_preset on <code>Train_preset</code>will be created.you can confirm for save on history and save your progress atributes on <code>Stats.txt</code> and <code>Char_save.txt</code> respectively.</p>
 </section>
 

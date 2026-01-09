@@ -1,5 +1,5 @@
  
- #Example (you can remove and pu your own)
+ #Example (you can remove and put your own)
 
  Training 2026-01-09 11:33:29.468662 
  push-ups: 4x12  ||  cardio (in seconds): 4x25 

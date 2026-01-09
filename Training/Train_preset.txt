@@ -1,3 +1,6 @@
+
+#Example train preset
+
 elevated push ups: 2x6 
  lunges: 3x21 
  crow pose (in seconds): 2x13 
