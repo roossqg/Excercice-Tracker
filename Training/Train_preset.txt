@@ -1,13 +1,13 @@
-cardio (in seconds): 5x35 
- jumping squats: 4x13 
- incline push-ups: 2x7 
- hollow body hold: 3x25 
- frog stand (in seconds): 2x15 
- incline pike push-ups: 1x6 
- frog stand (in seconds): 2x14 
- push-ups: 3x10 
- incline pike push-ups: 1x7 
- cardio (in seconds): 5x35 
- cardio (in seconds): 4x28 
- cardio (in seconds): 5x31 
+elevated push ups: 2x6 
+ lunges: 3x21 
+ crow pose (in seconds): 2x13 
+ l sit (in seconds): 2x6 
+ pike hold (in seconds): 3x26 
+ decline push ups: 2x8 
+ push-ups: 4x10 
+ hollow body hold: 2x21 
+ cardio (in seconds): 4x25 
+ cardio (in seconds): 5x30 
+ cardio (in seconds): 4x25 
+ cardio (in seconds): 4x32 
  

@@ -1,0 +1,54 @@
+ 
+ 
+ Training 2026-01-09 11:33:29.468662 
+ push-ups: 4x12  ||  cardio (in seconds): 4x25 
+ cardio (in seconds): 4x25  ||  frog stand (in seconds): 1x14 
+ frog stand (in seconds): 1x14  ||  incline pike push-ups: 2x7 
+ incline pike push-ups: 2x7  ||  body weight lateral raises: 4x10 
+ body weight lateral raises: 4x10  ||  frog stand (in seconds): 1x10 
+ frog stand (in seconds): 1x10  ||  straight arm plank (in seconds): 3x30 
+ 
+ 
+ Training 2026-01-09 11:33:31.159573 
+ cardio (in seconds): 5x22  ||  pike hold (in seconds): 4x30 
+ pike hold (in seconds): 4x30  ||  dips: 4x12 
+ dips: 4x12  ||  dips: 3x13 
+ dips: 3x13  ||  decline push ups: 2x6 
+ decline push ups: 2x6  ||  pistol squats (in seconds): 2x19 
+ pistol squats (in seconds): 2x19  ||  pistol squats (in seconds): 2x19 
+ 
+ 
+ Training 2026-01-09 11:33:32.947008 
+ pike hold (in seconds): 4x30  ||  pistol squats (in seconds): 2x16 
+ pistol squats (in seconds): 2x16  ||  pistol squats (in seconds): 2x18 
+ pistol squats (in seconds): 2x18  ||  jumping squats: 4x15 
+ jumping squats: 4x15  ||  hollow body hold: 2x22 
+ hollow body hold: 2x22  ||  cardio (in seconds): 4x27 
+ cardio (in seconds): 4x27  ||  body weight lateral raises: 3x9 
+ 
+ 
+ Training 2026-01-09 11:33:34.236888 
+ push-ups: 4x9  ||  pistol squats (in seconds): 3x19 
+ pistol squats (in seconds): 3x19  ||  l sit (in seconds): 3x6 
+ l sit (in seconds): 3x6  ||  decline push ups: 3x6 
+ decline push ups: 3x6  ||  elevated push ups: 2x5 
+ elevated push ups: 2x5  ||  incline push-ups: 2x7 
+ incline push-ups: 2x7  ||  hollow body hold: 2x19 
+ 
+ 
+ Training 2026-01-09 11:33:35.418151 
+ body weight lateral raises: 4x10  ||  incline pike push-ups: 1x5 
+ incline pike push-ups: 1x5  ||  decline push ups: 3x6 
+ decline push ups: 3x6  ||  crow pose (in seconds): 1x15 
+ crow pose (in seconds): 1x15  ||  crow pose (in seconds): 1x15 
+ crow pose (in seconds): 1x15  ||  frog stand (in seconds): 2x10 
+ frog stand (in seconds): 2x10  ||  l sit (in seconds): 3x10 
+ 
+ 
+ Training 2026-01-09 11:47:04.830726 
+ decline push ups: 3x8  ||  frog stand (in seconds): 2x14 
+ frog stand (in seconds): 2x14  ||  lunges: 2x30 
+ lunges: 2x30  ||  decline push ups: 2x7 
+ decline push ups: 2x7  ||  body weight lateral raises: 2x13 
+ body weight lateral raises: 2x13  ||  pistol squats (in seconds): 3x15 
+ pistol squats (in seconds): 3x15  ||  straight arm plank (in seconds): 3x27 

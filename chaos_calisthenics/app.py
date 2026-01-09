@@ -5,12 +5,16 @@ import datetime
 from YourChar import Characterexp
 import json
 import ast
+from dotenv import load_dotenv
+import os
 
+#get my paths from env varaibles
+load_dotenv()
 
 #Paths:
-train_preset="" # --> txt file 
-stats_and_History="" # --> txt file
-char_savedata="" # --> txt file
+train_preset=os.getenv('train') # --> txt file 
+stats_and_History=os.getenv('stat') # --> txt file
+char_savedata=os.getenv('save') # --> txt file
 
 #Create the exercise preset on Docs
 def exc_Tracker(): 

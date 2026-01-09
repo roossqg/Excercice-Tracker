@@ -2,10 +2,15 @@
 <html lang="eng">
 <head>
   <meta charset="UTF-8">
+
   
 <body>
 
   <header>
+    <h2>V3 Update! 9/12/2026</h2> <p>NEW: </p>
+    <ul>
+      <li>Enviroitment Variables: Now Data about train is hidden by and .env file that hosts whatever you want (Database,txt,JSON,etc).</li>
+    </ul>
     <h1>Exercise Tracker 🏃‍♂️💪</h1>
     <p><em>Auto Script for help you Plan,View and Random Select Your next Exercises!</em></p>
     <img src="https://img.shields.io/badge/licença-MIT-green" alt="License badge" class="badge">
@@ -49,11 +54,16 @@
 ### 2.Install requiremets (There's Nothing in V2< version):
 pip install -r requirements.txt
 
-### 3.Run the Script:
-  /Exercises.org.py
-    </pre>
+### 4.Enter on Directory that you put the Script and:
+
+#### 4.1.Run the Script:
+  python app.py
+
+#### 4.2.You will see this on your terminal:
+    ![alt text](image.png)
+  </pre>
     <p> After it,Your train_preset on <code>Train_preset</code>will be created.you can confirm for save on history and save your progress atributes on <code>Stats.txt</code> and <code>Char_save.txt</code> respectively.</p>
-  </section>
+</section>
 
   <footer>
     <p>Created by Rossw</p>
